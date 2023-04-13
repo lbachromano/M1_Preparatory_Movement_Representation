@@ -9,4 +9,4 @@ EMG.mat contains electromyographic recordings from 13 arm muscles a macaque monk
 
 Code:
 
-The file main_temp.m runs the scripts to analyze the data and generate the plots.
+The file main.m runs the scripts to analyze the data and generate the plots.
