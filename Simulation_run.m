@@ -20,7 +20,7 @@ dt_noise=300*dt_simulaz;
 
 %% This adds noise to the external fields. It is optional
 % ANOTHER OPTION, IS TO ADD A GAUSSIAN NOISE TO THE COUPLINGS MATRIX.
-% by adding to the matrix "couplings" defined at line 55
+% by adding to the matrix "couplings" defined at line 45
 % a noise matrix  
 % rand(DiscreteVar.NTOT,DiscreteVar.NTOT).*some_variance
 
