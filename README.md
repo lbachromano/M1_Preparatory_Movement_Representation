@@ -13,15 +13,3 @@ The file main.m runs the scripts to analyze the data and generate the plots.
 
 For any  questions, email lbachromano at gmail.com
 
-Cite:
-@article{bachschmid2023interplay,
-  title={Interplay between external inputs and recurrent dynamics during movement preparation and execution in a network model of motor cortex},
-  author={Bachschmid-Romano, Ludovica and Hatsopoulos, Nicholas G and Brunel, Nicolas},
-  journal={Elife},
-  volume={12},
-  pages={e77690},
-  year={2023},
-  publisher={eLife Sciences Publications Limited}
-}
-
-
